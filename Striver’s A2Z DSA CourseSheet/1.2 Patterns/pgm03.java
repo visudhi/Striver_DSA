@@ -1,4 +1,4 @@
-public class pgm3 {
+public class pgm03 {
 
     static void pattern(int n){
     

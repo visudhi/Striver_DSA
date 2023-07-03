@@ -1,4 +1,4 @@
-public class pgm9 {
+public class pgm09 {
     static void pattern(int n){
 
         for(int i=0;i<n;i++)
